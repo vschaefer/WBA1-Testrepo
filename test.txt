@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 Hier gibs nix zu sehen.
+=======
+Hello
+
+Lorem Ipsum dolor
+=======
+>>>>>>> d58f8add481c327bd9f4ab9f97586ea783ebf919
