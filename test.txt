@@ -1,28 +1,17 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Hello
-<<<<<<< HEAD
-hallo halloh allo
 =======
 =======
-Hello
-hallo halloh allo
->>>>>>> 65f61e552d2a9c17a8b17092cdbfa1c4aa29342f
 =======
 
-=======
->>>>>>> d003b6c0fc4a6cf4697a221248640d3eba180147
+
+Wahnsinnstext ohne Fehl und Tadel!!!
+hallo halloh allo
+
+Hello
+hallo halloh allo
 Hier gibs nix zu sehen.
 Hello
-
-<<<<<<< HEAD
 Lorem Ipsum dolor
-=======
->>>>>>> d58f8add481c327bd9f4ab9f97586ea783ebf919
->>>>>>> 3b82a496ea421336f8b364ada6bb5be5dcc2577b
-=======
+
 Tim ist toll
 Lorem Ipsum dolor
->>>>>>> d003b6c0fc4a6cf4697a221248640d3eba180147
->>>>>>> 24c1938a88ec3d9bab7964ac2cdf792a0cb1d53e
